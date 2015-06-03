@@ -8,7 +8,7 @@
 package com.example.money2;
 
 public final class R {
-    public static final class attr {//abc
+    public static final class attr {
     }
     public static final class dimen {
         public static final int activity_horizontal_margin=0x7f050000;

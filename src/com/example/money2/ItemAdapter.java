@@ -18,7 +18,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-public class ItemAdapter extends Activity{
+public class ItemAdapter extends Activity{//abc
 
 
 }
