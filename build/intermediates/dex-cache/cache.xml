@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cclin\workspace\money2\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="C:\Users\cclin\workspace\money2\build\intermediates\pre-dexed\debug\android-support-v4-7ec293221ccd1c7a803f728eafe4716cb8a275c6.jar" />
+    </item>
+
+</items>
